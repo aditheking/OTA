@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ms013g>
-            <Filename>ResurrectionRemix-M-v5.6.7-20160417-ms013g.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160422-ms013g.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://mega.nz/#!ocYXCbRZ!_IoBV-X68EGEyi0AAeASQ2NDsngYwbppkUhCpC9xFyY</RomUrl>
+                description="Download ResurrectionRemix builds">https://s.basketbuild.com/uploads/devs/Adityaupreti/ms013g/ResurrectionRemix-M-v5.6.7-20160422-ms013g.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
