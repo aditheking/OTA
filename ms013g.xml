@@ -5,7 +5,7 @@
             <Filename>Test Build Please DO not install</Filename>
             <RomUrl
                 id="rom"
-                title="Rom [Test build Dont install] "
+                title="Rom"
                 description="Download ResurrectionRemix builds">https://s.basketbuild.com/uploads/devs/Adityaupreti/ms013g/ResurrectionRemix-M-v5.6.7-20160422-ms013g1.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
