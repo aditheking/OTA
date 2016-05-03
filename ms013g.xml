@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <angler>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160503-ms013g.zip</Filename>
+        <ms013g>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160421-ms013g.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -19,6 +19,6 @@
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	</angler>
+	</ms013g>
     </Stable>
 </SlimOTA>
