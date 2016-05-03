@@ -2,27 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ms013g>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160503-ms013g.zip</Filename>
-            <BuildsUrl
-            	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build">https://docs.google.com/uc?export=download&confirm=gdPN&id=0B2n4CpDuUh2dX3ZzT3I0aURhTHc</BuildsUrl>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160502-ms013g.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://docs.google.com/uc?export=download&confirm=gdPN&id=0B2n4CpDuUh2dX3ZzT3I0aURhTHc</RomUrl>
+                description="Download ResurrectionRemix builds">https://docs.google.com/uc?export=download&confirm=bcR6&id=0B2n4CpDuUh2dX3ZzT3I0aURhTHc</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
             <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+            	id="gapps"
+            	title="Gapps"
+            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</ms013g>
     </Stable>
 </SlimOTA>
